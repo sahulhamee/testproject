@@ -2,4 +2,4 @@ version: 0.0
 os: windows
 files:
   - source: \PrecompiledWeb\localhost_52589
-    destination: C:\temp\WebApp\Demo
+    destination: F:\TESTSITE
